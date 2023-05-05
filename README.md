@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanhood10
 - 👀 I’m interested in ... Finance, Ask-Jeeves, crypto, web development and basketball
-- 🌱 I’m currently learning ... HTML CSS and Java, Also Spanish
+- 🌱 I’m currently learning ... more Python, AWS, Also Spanish
 - 💞️ I’m looking to collaborate on ... school projects
 - 📫 How to reach me ... ryan.hood10@yahoo.com or at 615-881-4675
 
