@@ -9,9 +9,11 @@
 📫 How to reach me:
 - Email: ryan.hood10@yahoo.com
 - Phone: 615-881-4675
+- My Portfolio App: http://ryans-portfolio.herokuapp.com/
 - LinkedIn: [linkedin.com/in/ryan-hood-11aa2b239/](https://www.linkedin.com/in/ryan-hood-11aa2b239/)
-- Downloadable Resume via OneDrive: [1drv.ms/w/s!AoSVg1fJ-_Nwo3e0PoiN-NS-R6qq](https://1drv.ms/w/s!AoSVg1fJ-_Nwo3e0PoiN-NS-R6qq)
 - Twitter: [@DevRyanH](https://twitter.com/DevRyanH)
+
+- Downloadable Resume via OneDrive: [1drv.ms/w/s!AoSVg1fJ-_Nwo3e0PoiN-NS-R6qq](https://1drv.ms/w/s!AoSVg1fJ-_Nwo3e0PoiN-NS-R6qq)
 
 <!---
 ryanhood10/ryanhood10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
