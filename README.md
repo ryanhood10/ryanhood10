@@ -10,7 +10,7 @@
 - Email: ryan.hood10@yahoo.com
 - Phone: 615-881-4675
 - LinkedIn: [linkedin.com/in/ryan-hood-11aa2b239/](https://www.linkedin.com/in/ryan-hood-11aa2b239/)
-- Downloadable resume: [1drv.ms/w/s!AoSVg1fJ-_Nwo3e0PoiN-NS-R6qq](https://1drv.ms/w/s!AoSVg1fJ-_Nwo3e0PoiN-NS-R6qq)
+- Downloadable Resume via OneDrive: [1drv.ms/w/s!AoSVg1fJ-_Nwo3e0PoiN-NS-R6qq](https://1drv.ms/w/s!AoSVg1fJ-_Nwo3e0PoiN-NS-R6qq)
 - Twitter: [@DevRyanH](https://twitter.com/DevRyanH)
 
 <!---
