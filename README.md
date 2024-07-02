@@ -1,6 +1,10 @@
-👋 Hi, I’m a full-stack engineer based out of Nashville, Tennessee.
+👋 Hi, I'm Ryan, a full-stack engineer based in Nashville, Tennessee.
 
-✨ I have experience with many different types of projects. Many of my projects are written using React library, while some are custom-built like my early projects. With experience in SQL and MongoDG, I like to integrate front and back-end whenever neccesary. I typically deploy on GitHub pages, Heroku, or Firebase. Connect with me and lets build something together!
+🚀 I love diving into diverse projects, from creating AI-driven content tools like AIContentCreator to building an AI-powered 3D model maker and an AI product SEO optimizer. I have a passion for developing websites and software solutions for businesses, always aiming to blend front-end and back-end seamlessly with React, SQL, MongoDB, and many other technologies.
+
+🤝 I'm a big fan of collaboration! If you have ideas or improvements for any of my apps, let's connect and build something amazing together.
+
+
 
 📫 How to reach me:
 - Email: ryan.hood10@yahoo.com
