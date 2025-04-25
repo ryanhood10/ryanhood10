@@ -9,7 +9,7 @@
 📫 How to reach me:
 - Email: ryan.hood10@yahoo.com
 - Phone: 615-881-4675
-- My Portfolio App: http://ryans-portfolio.herokuapp.com/
+- My Portfolio App: http://ryanhood.dev/
 - LinkedIn: [linkedin.com/in/ryan-hood-11aa2b239/](https://www.linkedin.com/in/ryan-hood-11aa2b239/)
 - Twitter: [@DevRyanH](https://twitter.com/DevRyanH)
 
